@@ -1,11 +1,11 @@
 
 **Mozilla Student Contributors**
 * [Akshay Jain](https://github.com/akshjain83)
-* [Akshay Gore](http://github.com/akshaygore06)
+* [kshitija karkar](https://github.com/kshitijakarkar)
+
+
 
 
 
 ##TownHall User Stories
-
-
-As a customer, I would like to have advertise blocker in the mozilla firefox so that it will help to reduce efforts. 
+As a business analyst, I want easy communication between client requirements and development team
